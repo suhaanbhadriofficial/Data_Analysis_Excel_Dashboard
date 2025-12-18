@@ -67,5 +67,5 @@ ________________________________________
 •	Dashboard: User controls and interactive charts
 -<a href="https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/SALES%20DASHBOARD%20PROJECT.xlsx">Project</a>
 ![Dashboard Preview](https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/dashboard_screenshot.PNG)
-https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/dashboard_screenshot2.PNG
+![Dashboard Preview](https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/dashboard_screenshot2.PNG)
 
