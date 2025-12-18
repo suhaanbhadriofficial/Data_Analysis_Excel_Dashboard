@@ -60,12 +60,11 @@ The interactive dashboard allows management to:
 •	Analyze sales and profit trends across months for each product category.
 •	Identify top-performing regions.
 •	Make informed, data-driven business decisions.
-
-https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/dashboard_screenshot.PNG
 ________________________________________
 # File Structure Submitted:
 •	Data: Raw dataset
 •	Working: Pivot Tables for analysis
 •	Dashboard: User controls and interactive charts
 -<a href="https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/SALES%20DASHBOARD%20PROJECT.xlsx">Project</a>
+![Dashboard Preview](https://github.com/suhaanbhadriofficial/Data_Analysis_Excel_Dashboard/blob/main/dashboard_screenshot.PNG)
 
